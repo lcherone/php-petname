@@ -27,6 +27,3 @@ Ported from: https://github.com/dustinkirkland/petname into a static PHP class.
 
 	// peacefull-mighty-tough-werewolf
 	echo Petname::Generate(4);
-
-
-Pull requests are welcome.
