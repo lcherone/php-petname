@@ -51,18 +51,20 @@ namespace LCherone {
          * If three or more words are requested, a variable number of Adverb() and a Adjective and a Name() is returned.
          * The separator can be any charater, string, or the empty string.
          * 
+         * @param: int    $words
+         * @param: string $separator
          * @return string
          */ 
         public static function Generate($words = 1, $separator = '-')
         {
-            if ($words <= 1) {
+            if ($words <== 1) {
                 return self::Name();
-            } elseif ($words == 2) {
+            } elseif ($words === 2) {
                 return self::Adjective().$separator.self::Name();
             }
 
             $petname = array();
-            for ($i=0; $i< $words-2; $i++) {
+            for ($i = 0; $i < $words-2; $i++) {
                 $petname[] = self::Adverb();
             }
 
