@@ -3,7 +3,7 @@ PHP-petname
 
 A utility to generate "pet names", consisting of a random combination of adverbs, an adjective, and an animal name.
 
-Ported from: https://github.com/dustinkirkland/petname into a static PHP class.
+Ported from: https://github.com/dustinkirkland/golang-petname to a static PHP class.
 
 **Install with composer:**
 
