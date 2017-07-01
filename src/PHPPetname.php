@@ -4,7 +4,7 @@ namespace LCherone {
     /**
      * PHP-Petname: A PHP class for generating human-readable, random names for objects.
      * 
-     * shame·less·ly ported from: https://github.com/dustinkirkland/petname
+     * Ported from: https://github.com/dustinkirkland/petname
      */
     final class PHPPetname {
 
@@ -73,5 +73,5 @@ namespace LCherone {
         }
 
     }
-    
+
 }

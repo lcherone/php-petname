@@ -1,8 +1,8 @@
 {
     "name": "lcherone/php-petname",
-    "description": "Library for generating human-readable, random names for objects",
+    "description": "Library for generating human-readable, random names for objects.",
     "license": "MIT",
-    "keywords": ["Library","petname","petnames","hostname","random","names"],
+    "keywords": ["library","generate","petname","petnames","hostname","random","names"],
     "homepage": "https://github.com/lcherone/php-petname",
     "authors": [
         {
