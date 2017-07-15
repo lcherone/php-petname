@@ -57,7 +57,7 @@ namespace LCherone {
          */ 
         public static function Generate($words = 1, $separator = '-')
         {
-            if ($words <== 1) {
+            if ($words <= 1) {
                 return self::Name();
             } elseif ($words === 2) {
                 return self::Adjective().$separator.self::Name();
