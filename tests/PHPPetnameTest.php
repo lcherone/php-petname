@@ -74,5 +74,4 @@ class PHPPetnameTest extends TestCase
         // check second is name
         $this->assertTrue(in_array($result[2], $this->names));
     }
-
 }
