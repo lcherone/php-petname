@@ -1,12 +1,12 @@
 **PHP Petname**
 =========
 
-[![Build Status](https://travis-ci.org/lcherone/petname.svg?branch=master)](https://travis-ci.org/lcherone/petname)
+[![Build Status](https://travis-ci.org/lcherone/php-petname.svg?branch=master)](https://travis-ci.org/lcherone/php-petname)
 [![StyleCI](https://styleci.io/repos/95990417/shield?branch=master)](https://styleci.io/repos/103975908)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/lcherone/petname/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/lcherone/petname/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/lcherone/petname/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/lcherone/petname/code-structure/master/code-coverage)
-[![Packagist Version](https://img.shields.io/packagist/v/plinker/core.svg?style=flat-square)](https://github.com/lcherone/petname/releases)
-[![Packagist Downloads](https://img.shields.io/packagist/dt/plinker/core.svg?style=flat-square)](https://packagist.org/packages/plinker/core)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/lcherone/php-petname/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/lcherone/php-petname/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/lcherone/php-petname/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/lcherone/php-petname/code-structure/master/code-coverage)
+[![Packagist Version](https://img.shields.io/packagist/v/lcherone/php-petname.svg?style=flat-square)](https://github.com/lcherone/php-petname/releases)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/lcherone/php-petname.svg?style=flat-square)](https://packagist.org/packages/plinker/core)
 
 A utility to generate "pet names", consisting of a random combination of adverbs, an adjective, and an animal name.
 
