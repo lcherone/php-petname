@@ -71,7 +71,7 @@ namespace LCherone {
             $petname[] = self::Adjective();
             $petname[] = self::Name();
 
-            return implode($petname, $separator);
+            return implode($separator, $petname);
         }
 
     }
