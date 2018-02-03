@@ -1,15 +1,27 @@
-PHP-petname
----
+**PHP Petname**
+=========
+
+[![Build Status](https://travis-ci.org/lcherone/petname.svg?branch=master)](https://travis-ci.org/lcherone/petname)
+[![StyleCI](https://styleci.io/repos/95990417/shield?branch=master)](https://styleci.io/repos/103975908)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/lcherone/petname/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/lcherone/petname/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/lcherone/petname/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/lcherone/petname/code-structure/master/code-coverage)
+[![Packagist Version](https://img.shields.io/packagist/v/plinker/core.svg?style=flat-square)](https://github.com/lcherone/petname/releases)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/plinker/core.svg?style=flat-square)](https://packagist.org/packages/plinker/core)
 
 A utility to generate "pet names", consisting of a random combination of adverbs, an adjective, and an animal name.
 
 Ported from: https://github.com/dustinkirkland/golang-petname to a static PHP class.
 
-**Install with composer:**
 
- `composer require lcherone/php-petname`
+## Install
 
-**Usage like so:**
+Require this package with composer using the following command:
+
+``` bash
+$ composer require lcherone/php-petname
+```
+
+## Example
 
 	<?php
 	require 'vendor/autoload.php';
@@ -27,3 +39,24 @@ Ported from: https://github.com/dustinkirkland/golang-petname to a static PHP cl
 
 	// peacefull-mighty-tough-werewolf
 	echo Petname::Generate(4);
+
+
+## Testing
+
+``` bash
+$ composer test
+```
+
+## Contributing
+
+Please see [CONTRIBUTING](CONTRIBUTING) for details.
+
+
+## Credits
+
+- [Lawrence Cherone](https://github.com/lcherone)
+- [All Contributors](../../contributors)
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
