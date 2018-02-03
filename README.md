@@ -2,7 +2,7 @@
 =========
 
 [![Build Status](https://travis-ci.org/lcherone/php-petname.svg?branch=master)](https://travis-ci.org/lcherone/php-petname)
-[![StyleCI](https://styleci.io/repos/95990417/shield?branch=master)](https://styleci.io/repos/103975908)
+[![StyleCI](https://styleci.io/repos/95988446/shield?branch=master)](https://styleci.io/repos/103975908)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/lcherone/php-petname/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/lcherone/php-petname/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/lcherone/php-petname/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/lcherone/php-petname/code-structure/master/code-coverage)
 [![Packagist Version](https://img.shields.io/packagist/v/lcherone/php-petname.svg?style=flat-square)](https://github.com/lcherone/php-petname/releases)
