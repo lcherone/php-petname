@@ -7,7 +7,6 @@ use PHPUnit\Framework\Assert;
 
 class PHPPetnameTest extends TestCase
 {
-
     /**
      * Pulls out current words for testing
      */
