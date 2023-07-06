@@ -1,6 +1,5 @@
 <?php
 namespace LCherone {
-
     /**
      * PHP-Petname: A PHP class for generating human-readable, random names for objects.
      *
@@ -74,5 +73,4 @@ namespace LCherone {
             return implode($separator, $petname);
         }
     }
-
 }
